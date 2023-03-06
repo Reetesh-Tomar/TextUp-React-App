@@ -18,8 +18,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 2) Dark mode with different functions:
 
+a) Using Uppercase button
 ![alt text](https://github.com/Reetesh-Tomar/TextUp-React-App/blob/main/pic%202.PNG)
 
+b) Using Copy Text button
 ![alt text](https://github.com/Reetesh-Tomar/TextUp-React-App/blob/main/pic%203.PNG)
 
+c) Using Lower Case button
 ![alt text](https://github.com/Reetesh-Tomar/TextUp-React-App/blob/main/pic%204.PNG)
